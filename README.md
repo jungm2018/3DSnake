@@ -1,4 +1,3 @@
-(Team) Slytherin - CS 174A project
 
 How to run the game?
  -
